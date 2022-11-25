@@ -1,0 +1,4 @@
+.header__container {
+    background: linear-gradient(var(--color-bg-variant), transparent);
+    height: 30vh
+}

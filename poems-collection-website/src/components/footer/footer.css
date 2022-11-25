@@ -1,0 +1,4 @@
+.footer__container{
+    background-color: linear-gradient(transparent, var(--color-bg-variant));
+    height: 30vh;
+}
